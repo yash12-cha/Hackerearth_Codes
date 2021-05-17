@@ -8,4 +8,4 @@ for i in range(N):
         count = count + 1
 print(count)
 
-'''We use max(w,h)/min(w,h) so that always the longer side gets divided by the smaller side. 
+'''We use max(w,h)/min(w,h) so that always the longer side gets divided by the smaller side.'''
